@@ -1,0 +1,13 @@
+:root {
+    --dark-green: #011F1F;
+    --medium-green: #002C2C;
+    --light-green: #BFE5D8;
+    --ivory: #FDFBED;
+    --gold: #FFE395;
+}
+
+body {
+    background-color: var(--dark-green);
+    color: var(--ivory);
+    text-align: center;
+}
