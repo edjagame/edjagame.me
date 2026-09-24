@@ -11,3 +11,17 @@ body {
     color: var(--ivory);
     text-align: center;
 }
+
+a {
+    color: var(--gold);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: var(--gold);
+}
+
+a:hover,
+a:focus-visible {
+    color: var(--light-green);
+}
